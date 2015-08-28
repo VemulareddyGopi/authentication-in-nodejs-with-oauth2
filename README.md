@@ -1,4 +1,4 @@
-# [Authenticate Node.js With OAuth2][published url]
+# [Authenticate Node.js With OAuth 2.0][published url]
 ## Instructor: [Jeremy McPeak][instructor url]
 
 
@@ -11,9 +11,9 @@ The source repository for this course contains folders for the sample code creat
 
 ------
 
-These are source files for the Tuts+ course: [Authenticate Node.js With OAuth2][published url]
+These are source files for the Tuts+ course: [Authenticate Node.js With OAuth 2.0][published url]
 
 Available on [Tuts+](https://tutsplus.com). Teaching skills to millions worldwide.
 
-[published url]: https://code.tutsplus.com/courses/authenticate-nodejs-with-oauth2
+[published url]: https://code.tutsplus.com/courses/authenticate-nodejs-with-oauth-20
 [instructor url]: https://tutsplus.com/authors/jeremy-mcpeak
